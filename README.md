@@ -5,7 +5,6 @@
 I'm a software engineer focused on building **secure, scalable, and high-performance applications**. My strongest areas are Node.js, PHP (Laravel), JavaScript/TypeScript, and modern front-end frameworks. I've led and built platforms that process thousands in transactions, developed **custom EMV SDKs for Android POS devices**, and implemented solutions that follow strict compliance standards.
 
 - 🔭 Currently working on advanced **Node.js & NestJS microservices**
-- 🌱 Learning **system design for large-scale platforms** and improving **professional English communication**
 - 💬 Ask me about **fintech, payment systems, EMV integrations, microservices, API security, and scalable architectures**
 - 📫 Reach me at: **anthonylj.cr250@gmail.com**
 - 🚀 9+ years building **startups, fintech, and high-load systems**
